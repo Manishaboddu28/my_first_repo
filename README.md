@@ -40,15 +40,3 @@ Used R² Score and error metrics to see how good my predictions were.
 - Matplotlib, Seaborn  
 - Scikit-learn
 
----
-
-## 📦 How to Run This Project
-
-1. Download or clone this repo  
-2. Make sure `car_price_prediction.csv` is in the same folder as the notebook  
-3. Open the notebook in Jupyter or VS Code  
-4. Run the cells one by one and explore!
-
-```python
-import pandas as pd
-df = pd.read_csv("car_price_prediction.csv")
